@@ -8,7 +8,7 @@ https://github.com/AlerHugu3s/PluginVoodoo
 ![1](https://user-images.githubusercontent.com/75010467/143873822-7aef1fd9-47e0-4cb7-94b0-0d73348f511f.jpg)
 
 
-作者：燕山\n
+作者：燕山
 ID：99283
 作品ID：93632047
 出处：https://www.pixiv.net/artworks/93632047
