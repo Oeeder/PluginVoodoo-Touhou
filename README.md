@@ -1,4 +1,4 @@
-# PluginVoodoo-
+# PluginVoodoo-塔罗牌图片替换成东方
 https://github.com/AlerHugu3s/PluginVoodoo
 用于该插件的替换塔罗牌图片
 
